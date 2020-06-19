@@ -1,0 +1,91 @@
+body{
+	background: #85E4E2;
+}
+.gari{
+	height: 80px;
+	width: 200px;
+	margin-left: 100px;
+	background: silver;
+	border-radius: 60px 100px 10px 10px;
+}
+.gari1{
+	height: 50px;
+	width: 50px;
+	margin-left: 85px;
+	margin-top: -50px;
+	background: silver;
+	border-radius: 30px 100px 10px 10px;
+}
+.gari2{
+	height: 50px;
+	width: 60px;
+	margin-left: 250px;
+	margin-top: -50px;
+	background: silver;
+	border-radius: 30px 10px 10px 10px;
+}
+.gari3{
+	height: 25px;
+	width: 25px;
+	margin-top: -25px;
+	margin-left: 110px;
+	background: blue;
+	border-radius: 80px;
+	border: 5px dotted black;
+}
+.gari4{
+	height: 25px;
+	width: 25px;
+	margin-top: -35px;
+	margin-left: 225px;
+	background: blue;
+	border-radius: 80px;
+	border: 5px dotted black;
+}
+.gari5{
+	height: 20px;
+	width: 60px;
+	margin-top: -85px;
+	margin-left: 115px;
+	border: 5px solid gold;
+	border-radius: 100px 0px 10px 10px;
+}
+.gari6{
+	height: 20px;
+	width: 60px;
+	margin-top: -30px;
+	margin-left: 200px;
+	border: 5px solid gold;
+	border-radius: 0px 100px 10px 10px;
+}
+.gari7{
+	height: 6px;
+	width: 205px;
+	margin-top: 2px;
+	margin-left: 90px;
+	border: 5px solid limegreen;
+}
+.gari8{
+	height: .1px;
+	width: .1px;
+	margin-top: -15px;
+	margin-left: 308px;
+	border: 5px solid white;
+	border-radius: 0px 50px 50px 0px;
+}
+.gari9{
+	height: .1px;
+	width: .1px;
+	margin-top: -10px;
+	margin-left: 80px;
+	border: 5px solid red;
+	border-radius: 50px 0px 0px 50px;
+}
+.gari10{
+	height: .1px;
+	width: .1px;
+	margin-top: 2px;
+	margin-left: 80px;
+	border: 5px solid yellow;
+	border-radius: 50px 0px 0px 50px;
+}
